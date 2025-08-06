@@ -1,0 +1,3 @@
+# Python requirements (if using Python scripts for AI or PDF processing)
+pdfminer.six
+openai
