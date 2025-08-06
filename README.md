@@ -190,4 +190,4 @@ If you have any questions or need help, please open an issue in the GitHub repos
 
 ---
 
-**Made with ❤️ by [Ayushpremrocks](https://github.com/Ayushpremrocks)**
+**Made with ❤️ by [Kunal Raj]
